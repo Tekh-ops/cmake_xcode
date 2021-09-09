@@ -1,0 +1,3 @@
+/Users/mac/Desktop/xcode/CMakeFiles/Darwin.dir
+/Users/mac/Desktop/xcode/CMakeFiles/ALL_BUILD.dir
+/Users/mac/Desktop/xcode/CMakeFiles/ZERO_CHECK.dir
